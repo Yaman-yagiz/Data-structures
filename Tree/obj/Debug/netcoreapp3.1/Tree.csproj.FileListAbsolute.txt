@@ -1,0 +1,13 @@
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\bin\Debug\netcoreapp3.1\Tree.exe
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\bin\Debug\netcoreapp3.1\Tree.deps.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.dev.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\bin\Debug\netcoreapp3.1\Tree.dll
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\bin\Debug\netcoreapp3.1\Tree.pdb
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\obj\Debug\netcoreapp3.1\Tree.csprojAssemblyReference.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfoInputs.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfo.cs
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\obj\Debug\netcoreapp3.1\Tree.csproj.CoreCompileInputs.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\obj\Debug\netcoreapp3.1\Tree.dll
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\obj\Debug\netcoreapp3.1\Tree.pdb
+C:\Users\Fucking Education\Desktop\Veri yapıları\Tree\obj\Debug\netcoreapp3.1\Tree.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\bin\Debug\netcoreapp3.1\Kuyruk.exe
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\bin\Debug\netcoreapp3.1\Kuyruk.deps.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\bin\Debug\netcoreapp3.1\Kuyruk.runtimeconfig.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\bin\Debug\netcoreapp3.1\Kuyruk.runtimeconfig.dev.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\bin\Debug\netcoreapp3.1\Kuyruk.dll
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\bin\Debug\netcoreapp3.1\Kuyruk.pdb
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\obj\Debug\netcoreapp3.1\Kuyruk.csprojAssemblyReference.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\obj\Debug\netcoreapp3.1\Kuyruk.AssemblyInfoInputs.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\obj\Debug\netcoreapp3.1\Kuyruk.AssemblyInfo.cs
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\obj\Debug\netcoreapp3.1\Kuyruk.csproj.CoreCompileInputs.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\obj\Debug\netcoreapp3.1\Kuyruk.dll
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\obj\Debug\netcoreapp3.1\Kuyruk.pdb
+C:\Users\Fucking Education\Desktop\Veri yapıları\Kuyruk\obj\Debug\netcoreapp3.1\Kuyruk.genruntimeconfig.cache

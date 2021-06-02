@@ -1,0 +1,13 @@
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\bin\Debug\netcoreapp3.1\Infix-Postfix.exe
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\bin\Debug\netcoreapp3.1\Infix-Postfix.deps.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\bin\Debug\netcoreapp3.1\Infix-Postfix.runtimeconfig.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\bin\Debug\netcoreapp3.1\Infix-Postfix.runtimeconfig.dev.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\bin\Debug\netcoreapp3.1\Infix-Postfix.dll
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\bin\Debug\netcoreapp3.1\Infix-Postfix.pdb
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\obj\Debug\netcoreapp3.1\Infix-Postfix.csprojAssemblyReference.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\obj\Debug\netcoreapp3.1\Infix-Postfix.AssemblyInfoInputs.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\obj\Debug\netcoreapp3.1\Infix-Postfix.AssemblyInfo.cs
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\obj\Debug\netcoreapp3.1\Infix-Postfix.csproj.CoreCompileInputs.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\obj\Debug\netcoreapp3.1\Infix-Postfix.dll
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\obj\Debug\netcoreapp3.1\Infix-Postfix.pdb
+C:\Users\Fucking Education\Desktop\Veri yapıları\Infix-Postfix\obj\Debug\netcoreapp3.1\Infix-Postfix.genruntimeconfig.cache

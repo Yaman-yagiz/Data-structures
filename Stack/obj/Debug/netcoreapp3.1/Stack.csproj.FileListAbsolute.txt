@@ -1,0 +1,13 @@
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache

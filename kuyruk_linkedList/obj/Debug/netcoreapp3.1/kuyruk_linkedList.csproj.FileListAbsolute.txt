@@ -1,0 +1,13 @@
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\obj\Debug\netcoreapp3.1\kuyruk_linkedList.csprojAssemblyReference.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\obj\Debug\netcoreapp3.1\kuyruk_linkedList.AssemblyInfoInputs.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\obj\Debug\netcoreapp3.1\kuyruk_linkedList.AssemblyInfo.cs
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\obj\Debug\netcoreapp3.1\kuyruk_linkedList.csproj.CoreCompileInputs.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\bin\Debug\netcoreapp3.1\kuyruk_linkedList.exe
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\bin\Debug\netcoreapp3.1\kuyruk_linkedList.deps.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\bin\Debug\netcoreapp3.1\kuyruk_linkedList.runtimeconfig.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\bin\Debug\netcoreapp3.1\kuyruk_linkedList.runtimeconfig.dev.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\bin\Debug\netcoreapp3.1\kuyruk_linkedList.dll
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\bin\Debug\netcoreapp3.1\kuyruk_linkedList.pdb
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\obj\Debug\netcoreapp3.1\kuyruk_linkedList.dll
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\obj\Debug\netcoreapp3.1\kuyruk_linkedList.pdb
+C:\Users\Fucking Education\Desktop\Veri yapıları\kuyruk_linkedList\obj\Debug\netcoreapp3.1\kuyruk_linkedList.genruntimeconfig.cache

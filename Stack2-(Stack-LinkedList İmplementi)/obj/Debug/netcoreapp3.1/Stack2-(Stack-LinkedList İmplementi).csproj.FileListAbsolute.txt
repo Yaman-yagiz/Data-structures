@@ -1,0 +1,13 @@
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\bin\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).exe
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\bin\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).deps.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\bin\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).runtimeconfig.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\bin\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).runtimeconfig.dev.json
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\bin\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).dll
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\bin\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).pdb
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\obj\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).csprojAssemblyReference.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\obj\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).AssemblyInfoInputs.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\obj\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).AssemblyInfo.cs
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\obj\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).csproj.CoreCompileInputs.cache
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\obj\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).dll
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\obj\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).pdb
+C:\Users\Fucking Education\Desktop\Veri yapıları\Stack2-(Stack-LinkedList İmplementi)\obj\Debug\netcoreapp3.1\Stack2-(Stack-LinkedList İmplementi).genruntimeconfig.cache
